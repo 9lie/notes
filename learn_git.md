@@ -11,7 +11,7 @@ git config --global user.email <邮箱>
 ## 生成sshkey
 
 ```
-ssh -keygen
+ssh-keygen
 ```
 
 一直回车就可以
