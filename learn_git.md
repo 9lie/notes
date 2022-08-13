@@ -25,6 +25,12 @@ ssh -T git@github.com
 用于测试是否成功连接服务器
 第一次要打 **yes**
 
+## 解决中文乱码
+
+```
+git config --global core.quotepath false
+```
+
 ## 基本命令
 
 ```
